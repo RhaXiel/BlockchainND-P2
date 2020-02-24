@@ -1,0 +1,29 @@
+{
+  "name": "blockchainnd-p2",
+  "version": "1.0.0",
+  "description": "Second project of the Blockchain Nanodegree",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "truffle-hdwallet-provider": "^1.0.0-web3one.5"
+  },
+  "devDependencies": {
+    "any-promise": "^1.3.0",
+    "bindings": "^1.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RhaXiel/BlockchainND-P2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RhaXiel/BlockchainND-P2/issues"
+  },
+  "homepage": "https://github.com/RhaXiel/BlockchainND-P2#readme"
+}
